@@ -5,11 +5,12 @@ input{
     background-color:white;
     opacity: 0.9;
     padding: 2%;
+    font-size: 0.65rem;
     
 }
 
 img{
-    margin-left: 8%;
+    margin-left: 10%;
     margin-top: 2%;
     height: 4rem;
     width: 15rem;
@@ -31,7 +32,7 @@ img{
 
 body{
     background-image: url(../img/kaamelott-97229.jpg);
-    background-size: 100%;
+    background-size: cover;
     
     
 }
